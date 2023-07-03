@@ -1,0 +1,15 @@
+D:\Programacion\ISTEA\POO\Jona\PooClase4\bin\Debug\net7.0\PooClase4.exe
+D:\Programacion\ISTEA\POO\Jona\PooClase4\bin\Debug\net7.0\PooClase4.deps.json
+D:\Programacion\ISTEA\POO\Jona\PooClase4\bin\Debug\net7.0\PooClase4.runtimeconfig.json
+D:\Programacion\ISTEA\POO\Jona\PooClase4\bin\Debug\net7.0\PooClase4.dll
+D:\Programacion\ISTEA\POO\Jona\PooClase4\bin\Debug\net7.0\PooClase4.pdb
+D:\Programacion\ISTEA\POO\Jona\PooClase4\obj\Debug\net7.0\PooClase4.csproj.AssemblyReference.cache
+D:\Programacion\ISTEA\POO\Jona\PooClase4\obj\Debug\net7.0\PooClase4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programacion\ISTEA\POO\Jona\PooClase4\obj\Debug\net7.0\PooClase4.AssemblyInfoInputs.cache
+D:\Programacion\ISTEA\POO\Jona\PooClase4\obj\Debug\net7.0\PooClase4.AssemblyInfo.cs
+D:\Programacion\ISTEA\POO\Jona\PooClase4\obj\Debug\net7.0\PooClase4.csproj.CoreCompileInputs.cache
+D:\Programacion\ISTEA\POO\Jona\PooClase4\obj\Debug\net7.0\PooClase4.dll
+D:\Programacion\ISTEA\POO\Jona\PooClase4\obj\Debug\net7.0\refint\PooClase4.dll
+D:\Programacion\ISTEA\POO\Jona\PooClase4\obj\Debug\net7.0\PooClase4.pdb
+D:\Programacion\ISTEA\POO\Jona\PooClase4\obj\Debug\net7.0\PooClase4.genruntimeconfig.cache
+D:\Programacion\ISTEA\POO\Jona\PooClase4\obj\Debug\net7.0\ref\PooClase4.dll
